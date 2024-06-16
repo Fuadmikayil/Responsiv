@@ -96,9 +96,13 @@ header>h1 {
 }
 
 #menu {
-    display: none;
     
 }
+
+
+
+
+
 
 @media screen and (max-width:900px) {
     header>nav {
